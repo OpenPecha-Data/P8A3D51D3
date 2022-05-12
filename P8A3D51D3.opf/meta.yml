@@ -58,3 +58,8 @@ source_metadata:
       parent: Lojong (general)
 created_at: '2022-03-01T04:44:49.393656'
 last_modified_at: '2022-03-01T04:44:49.393659'
+statistics:
+  total_words: 20981
+  total_non_words: 1814
+quality:
+  non_words_ratio: 0.09
